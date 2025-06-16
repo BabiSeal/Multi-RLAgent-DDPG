@@ -4,7 +4,7 @@
 
 Train multiple agents using Deep Deterministic Policy Gradient Reinforcement Learning to train a double jointed arm to move to target locations.  
 
-[Double Jointed Arm Movement](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif)
+![Double Jointed Arm Movement](https://video.udacity-data.com/topher/2018/June/5b1ea778_reacher/reacher.gif)
 
 There is a reward of +0.1 for each step that the agent's hand is in the goal location. So the goal of the agent is to maintain its position at the target location for as many timesteps as possible.
 
@@ -52,4 +52,4 @@ We would strongly recommend using the ML-Agent v0.4 interface as attempts to dow
 
 #### Training the Agent
 
-Follow the exercises in `Continuous.ipynb` to train your agent using multi-agent DDPG
+Follow the exercises in `Continuous_Control.ipynb` to train your agent using multi-agent DDPG
